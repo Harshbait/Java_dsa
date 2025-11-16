@@ -18,6 +18,7 @@ public class Linear {
                 a = num[i];
             }
             if(b > num[i]) {
+                
                 b = num[i];
             }
         }
