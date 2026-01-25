@@ -1,7 +1,7 @@
 public class Subarray {
     public static void printSubarray(int numbers[]) {
         int curr = 0;
-        int maxSum = Integer.MIN_VALUE;
+        int java = Integer.MIN_VALUE;
 
         for(int i = 0; i < numbers.length; i++) {
             int start = i;
